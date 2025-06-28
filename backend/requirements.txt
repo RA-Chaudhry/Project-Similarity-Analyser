@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+flask_cors
+numpy
+sentence-transformers
+transformers
+scikit-learn
+redis
+werkzeug
+pyjwt
+faiss-cpu 
