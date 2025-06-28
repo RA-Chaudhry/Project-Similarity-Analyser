@@ -88,4 +88,5 @@ ProjectSimilarityAnalyzer/
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute with proper credit.
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute with prope
+
